@@ -1,0 +1,18 @@
+{
+    "name": "mamdouh/simple-filter",
+    "description": "this package provide an easy way to filter your eloquent models",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mamdouh\\SimpleFilter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "do7a khaled",
+            "email": "do7a.khaled@gmail.com"
+        }
+    ],
+    "require": {}
+}
