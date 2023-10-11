@@ -1,5 +1,5 @@
 {
-    "name": "mamdouh/simple-filter",
+    "name": "do7akhaled/simple-filter",
     "description": "this package provide an easy way to filter your eloquent models",
     "type": "library",
     "license": "MIT",
