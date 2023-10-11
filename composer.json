@@ -3,6 +3,7 @@
     "description": "this package provide an easy way to filter your eloquent models",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Mamdouh\\SimpleFilter\\": "src/"
